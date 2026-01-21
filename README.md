@@ -40,3 +40,4 @@ All the sub-agents report back to the Assistant Manager after completing their r
 
 
 *NOTE : The SQL Lite Database file has been removed from the project files due to gitHub upload file size restrictions.
+Also, the credentials, tokens, and .env files have been removed due to security concerns as they contained API keys and credentials. 
