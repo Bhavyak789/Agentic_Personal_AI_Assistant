@@ -37,3 +37,6 @@ All the sub-agents report back to the Assistant Manager after completing their r
 -   **Telegram API**: Depending on your choice of communication channel.
 -   **WhatsApp API via Twilio Sandbox (for testing)**: A way to integrate WhatsApp communication.
 
+
+
+*NOTE : The SQL Lite Database file has been removed from the project files due to gitHub upload file size restrictions.
